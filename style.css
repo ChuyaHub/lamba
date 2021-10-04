@@ -1,0 +1,96 @@
+body{
+	margin: 0;
+}
+.container1 {
+	width: 100vw;
+	height: 100vh;
+    margin: 0;
+    background: url(фон.png) no-repeat;
+    background-size: 100% auto;
+}
+
+.znak{
+	width: 8%;
+	height: 10%;
+    margin-top: 1%; }
+.tel{
+	text-align: right;
+	margin-top: -4%;
+	font-family: Palatino Linotype;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0.2em;
+margin-right: 2%;
+}
+.loc{
+	text-align: right;
+	margin-top: 1%;
+	font-family: Palatino Linotype;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0.2em;
+margin-right: 2%;
+}
+h1{
+	text-align: center;
+	font-size: 64px;
+letter-spacing: 0.4em;
+width: 100%;
+font-weight: 200;
+margin-top: 10%;
+color: #FFFFFF;
+}
+h2{
+	font-size: 15px;
+line-height: 16.5%;
+letter-spacing: 0.255em;
+color: #FFFFFF;
+text-align: center;
+margin-top: 1%;
+font-weight: 200;
+}
+.lamba{
+width: 60%;
+height: 60%;
+margin-left: 20%;
+margin-top: 1%;
+}
+.text{
+	
+	font-size: 20px;
+	letter-spacing: 0.255em;
+	margin-top: 7%;
+	width: 70%;
+	text-align: center;
+	margin-left: 16%;
+}
+.lamba2{
+	margin-left: -50%;
+	margin-top: -10%;
+	width: 100%;
+}
+
+ul{
+
+font-size: 25px;
+font-weight: 400;
+letter-spacing: 0.255em;
+margin-left: 35%;
+}
+h3{
+	margin-top: -50%;
+	margin-left: 50%;
+	font-size: 50px;
+	padding-top: 5%;
+}
+.ch{
+	margin-left: 35%;
+}
+
+.in{
+	margin-top: 20%;
+}
